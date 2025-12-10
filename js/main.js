@@ -96,8 +96,8 @@ navText:['<i class="ti-angle-left"></i>','<i class="ti-angle-right"></i>'],
 dots:false,
 autoplayHoverPause: true,
 autoplaySpeed: 800,
-animateOut: 'fadeOut',
-animateIn: 'fadeIn',
+animateOut: '',
+animateIn: '',
   responsive:{
       0:{
           items:1,
